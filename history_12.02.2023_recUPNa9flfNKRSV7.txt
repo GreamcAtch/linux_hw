@@ -1,0 +1,25 @@
+   0 mkdir /home/animals /home/animals/dogs /home/animals/cats /home/animals/fish
+   1 tree /home/
+   2 touch /home/animals/dogs/pluto.txt /home/animals/cats/garfield.txt /home/animals/fish/nemo.txt
+   3 tree /home/
+   4 clear
+   5 mkdir /home/humans
+   6 tree /home/
+   7 touch /tmp/adam.txt
+   8 touch /tmp/adam.txt /tmp/evA.txt
+   9 cp /tmp/adam.txt /home/humans/
+  10 tree /home/
+  11 clear
+  12 cp /tmp/evA.txt /opt/eva.txt
+  13 tree /opt/
+  14 cp /opt/eva.txt /home/humans/
+  15 tree /home/
+  16 tree /opt/
+  17 clear
+  18 mv /opt/eva.txt /home/humans/
+  19 tree /opt/
+  20 tree /home/
+  21 cp /home/humans/eva.txt /home/humans/eve.txt
+  22 tree /home/
+  23 clear
+  24 history > history_12.02.2023_recUPNa9flfNKRSV7.txt
