@@ -1,0 +1,39 @@
+   0 mkdir /home/user /home/user/start/
+   1 tree /home/
+   2 toch /home/user/start/1.txt
+   3 touch /home/user/start/1.txt
+   4 tree /home/
+   5 >> /home/user/start/1.txt/Start
+   6 ls /home/user/start/
+   7 clear
+   8 ls /home/user/start/1.txt 
+   9 cat /home/user/start/1.txt 
+  10 echo "Start" >> /home/user/start/1.txt
+  11 cat /home/user/start/1.txt 
+  12 date
+  13 date >> /home/user/start/1.txt 
+  14 cat /home/user/start/1.txt 
+  15 mkdir /opt/task/start.txt
+  16 mkdir /opt/task/
+  17 tree /opt/
+  18 touch /opt/task/start.txt
+  19 clear
+  20 pl /opt/task/
+  21 clear
+  22 tree /opt/task/
+  23 cat /opt/task/start.txt 
+  24 cat /opt/task/start.txt  >> /home/user/start/1.txt 
+  25 cat /opt/task/start.txt 
+  26 pl /opt/task/start.txt  
+  27 cat /home/user/start/1.txt 
+  28 cat /opt/task/start.txt 
+  29 cat /opt/task/start.txt  >> /home/user/start/1.txt 
+  30 cat /opt/task/start.txt 
+  31 pl /opt/task/start.txt  
+  32 /home/user/start/1.txt >> /opt/task/start.txt 
+  33 cat /opt/task/start.txt 
+  34 cat /home/user/start/1.txt 
+  35 mv /home/user/start/1.txt /opt/task/start.txt 
+  36 cat /opt/task/start.txt 
+  37 tree /home/
+  38 history > hisrory_12_02_2023_rechqSzsAlJVDenvX.txt
